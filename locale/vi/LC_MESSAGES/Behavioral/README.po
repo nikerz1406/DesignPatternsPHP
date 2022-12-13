@@ -1,0 +1,32 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DesignPatternsPHP 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-29 12:18+0200\n"
+"PO-Revision-Date: 2022-12-13 10:55+0700\n"
+"Last-Translator: Le Hue <lehue113114@gmail.com>\n"
+"Language: vi\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../Behavioral/README.rst:2
+msgid "`Behavioral`__"
+msgstr "`Verhaltensmuster`__"
+
+#: ../../Behavioral/README.rst:4
+msgid ""
+"In software engineering, behavioral design patterns are design patterns "
+"that identify common communication patterns between objects and realize "
+"these patterns. By doing so, these patterns increase flexibility in "
+"carrying out this communication."
+msgstr ""
+"Design Patterns, die gängige Kommunikationsmuster zwischen mehreren "
+"Objekten definieren, sind in der Softwareentwicklung als sog. "
+"Verhaltensmuster bekannt. Mit diesen Patterns kann die Flexibilität in "
+"einer Architektur signifikant verbessert werden."
+
