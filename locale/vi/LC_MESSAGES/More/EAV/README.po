@@ -50,7 +50,7 @@ msgstr ""
 
 #: ../../More/EAV/README.rst:15
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../More/EAV/README.rst:17
 msgid "Check full work example in `example.php`_ file."

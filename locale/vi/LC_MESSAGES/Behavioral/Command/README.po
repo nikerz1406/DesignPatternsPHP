@@ -16,15 +16,15 @@ msgstr ""
 
 #: ../../Behavioral/Command/README.rst:2
 msgid "`Command`__"
-msgstr "`Command`__"
+msgstr "`Mệnh lệnh`__"
 
 #: ../../Behavioral/Command/README.rst:5
 msgid "Purpose"
-msgstr "Zweck"
+msgstr "Mục đích"
 
 #: ../../Behavioral/Command/README.rst:7
 msgid "To encapsulate invocation and decoupling."
-msgstr "Um Ausführung zu kapseln und Entkopplung zu erreichen."
+msgstr "Để gói gọn mệnh lệnh và tách bạch kết quả."
 
 #: ../../Behavioral/Command/README.rst:9
 msgid ""
@@ -34,12 +34,10 @@ msgid ""
 " to process the Command of the client. The Receiver is decoupled from the"
 " Invoker."
 msgstr ""
-"Wir haben einen Invoker (Ausführer) und einen Receiver (Empfänger). "
-"Dieses Pattern benutzt ein „Command“ um die Ausführung einer Methode and "
-"einen Empfänger zu delegieren und eine einheitliche „execute“ Methode "
-"bereitzustellen. Damit weiß der Ausführer nur von der „execute“-Methode, "
-"um den Befehl auszuführen. Der Empfänger wird dadurch vom Aufrufer "
-"entkoppelt."
+"Chúng ta có Một lệnh thực thi và một Người nhận. Mẫu thiết dùng một \"Lệnh\" để "
+"đại diện cho hàm để gọi một Nhận lệnh và trình bày như là một"
+" hàm \"thực thi\". Vì thế, Mệnh lệnh này chỉ gọi \"thực thi\" "
+" để thực hiện mệnh lệnh của khách hàng. Nhận lệnh sẽ được tách biệt với Mệnh lệnh."
 
 #: ../../Behavioral/Command/README.rst:15
 msgid ""
@@ -48,22 +46,20 @@ msgid ""
 "commands with minimum copy-paste and relying on composition over "
 "inheritance."
 msgstr ""
-"Der zweite Aspekt dieses Musters ist die `undo()` Methode, die die "
-"Ausführung der `execute()` Methode rückgängig machen kann. Befehlen "
-"können außerdem aggregiert werden, um komplexe Befehle mit minimalem "
-"Aufwand und mit Komposition (anstatt Vererbung) zu erstellen."
+"Đặc điểm thứ hai của mẫu này là cơ chế hoàn tác undo(), đó là một hàm thực thi ngược lại"
+"`execute()`. Hàm này cũng có thể đơn giản hoặc phức tạp để hoàn trả lại như cũ "
 
 #: ../../Behavioral/Command/README.rst:21
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Behavioral/Command/README.rst:23
 msgid ""
 "A text editor : all events are commands which can be undone, stacked and "
 "saved."
 msgstr ""
-"Ein Texteditor: alle Ereignisse sind Befehle, die rückgängig gemacht, "
-"gestapelt und gespeichert werden können."
+"Một soạn thảo văn bản: các tác vụ là những lệnh có thể hoàn tác, tuần tự và "
+"lưu trữ."
 
 #: ../../Behavioral/Command/README.rst:27
 msgid ""
@@ -71,9 +67,9 @@ msgid ""
 "in \"modules\", each of these can be implemented with the Command pattern"
 " (e.g. vagrant)"
 msgstr ""
-"Komplexe Konsolentools bestehen aus Subcommands, um die Aufgaben besser "
-"zu modulariseren. Jedes dieser Commands kann als Command-Pattern "
-"implementiert werden (z.B. vagrant)."
+"những công cụ CLI lớn dùng các lệnh con phân phối công việc và đóng gọi chúng "
+"trong \"modules\", mỗi khối này có thiết kế theo dạng mẫu Mệnh Lệnh"
+" (ví dụ ...)"
 
 #: ../../Behavioral/Command/README.rst:32
 msgid "UML Diagram"

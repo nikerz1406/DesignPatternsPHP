@@ -42,7 +42,7 @@ msgstr ""
 
 #: ../../More/Repository/README.rst:16
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../More/Repository/README.rst:18
 msgid ""

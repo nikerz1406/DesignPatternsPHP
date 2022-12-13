@@ -18,41 +18,39 @@ msgstr ""
 msgid "DesignPatternsPHP"
 msgstr "DesignPatternsPHP"
 
-#: ../../README.rst:11
-msgid ""
+#: ../../README.rst:23
+msgid
 "This is a collection of known `design patterns`_ and some sample code how"
 " to implement them in PHP. Every pattern has a small list of examples."
-msgstr ""
-"Das ist eine Sammlung bekannter Entwurfsmuster (sog. Design Patterns) und"
-" Beispielcode, wie man diese in PHP implementieren kann. Für jedes Muster"
-" gibt es Beispiele."
+msgstr
+"Đây là tập hợp các mẫu thiết kế theo `design patterns`_ (GoF) Design Patterns và một vài ví dụ "
+" phát triển bằng ngôn ngữ PHP. Mỗi mẫu thiết kế đều có một vài ví dụ kèm theo"
 
-#: ../../README.rst:16
+#: ../../README.rst:26
 msgid ""
 "I think the problem with patterns is that often people do know them but "
 "don't know when to apply which."
 msgstr ""
-"Ich denke das Problem mit den Mustern ist, dass sie eigentlich sehr "
-"bekannt und gut dokumentiert sind, allerdings viele nicht wissen, wann "
-"und wie man sie einsetzt."
+"Tôi nghĩ vấn đề với những mẫu thiết kế này thường là mọi người đều biết đến chúng nhưng "
+"họ chưa biết hoặc chưa thấy cách vận dụng của chúng hiệu quả"
 
-#: ../../README.rst:20
+#: ../../README.rst:29
 msgid "Patterns"
-msgstr "Muster"
+msgstr "Những mẫu thiết kế"
 
-#: ../../README.rst:22
+#: ../../README.rst:32
 msgid ""
 "The patterns can be structured in roughly three different categories. "
 "Please click on **the title of every pattern's page** for a full "
 "explanation of the pattern on Wikipedia."
 msgstr ""
-"Die Patterns können grob in drei Kategorien eingeteilt werden. Um eine "
-"vollständige Beschreibung der Muster lesen zu können, klicke bitte auf "
-"**die Titelseite des jeweiligen Entwurfsmusters**."
+"Những mẫu này có thể phân làm 3 loại"
+" Hãy nhấn vào **tiêu đề của mỗi mẫu trong trang** để xem chi tiết"
+" các giải thích mẫu có ở trang Wikipedia"
 
 #: ../../README.rst:35
 msgid "Contribute"
-msgstr "Beitragen"
+msgstr "Đóng góp"
 
 #: ../../README.rst:37
 msgid ""
@@ -62,14 +60,13 @@ msgid ""
 "standard`_ using ``./vendor/bin/phpcs -p --standard=PSR2 --ignore=vendor "
 ".``."
 msgstr ""
-"Um die Beispiele zu erweitern oder neue Patterns zu ergänzen kannst du "
-"gerne das Projekt forken und bearbeiten! Um eine gute Codequalität zu "
-"gewährleisten, benutze bitte `PHP CodeSniffer` mit dem `PSR2 Standard`: "
+"Hãy góp sức ủng hộ dự án và kết thừa dự án hoặc bạn có thể đóng góp ví dụ của bạn và"
+"gửi một yêu cầu thay cập nhật thay đổi đó! Để chất lượng mã được ổn định, hãy kiểm tra mã của bảng bằng `PHP CodeSniffer` với tiếu chuẩn PSR2 :"
 "`./vendor/bin/phpcs -p --standard=PSR2 --ignore=vendor .`."
 
 #: ../../README.rst:44
 msgid "License"
-msgstr "Lizenz"
+msgstr "Giấy phép"
 
 #: ../../README.rst:46
 msgid "(The MIT License)"
@@ -77,7 +74,7 @@ msgstr "(The MIT License)"
 
 #: ../../README.rst:48
 msgid "Copyright (c) 2011 - 2016 `Dominik Liebler`_ and `contributors`_"
-msgstr "Copyright (c) 2011 - 2016 `Dominik Liebler`_ and `contributors`_"
+msgstr "Bản quyền  (c) 2011 - 2016 `Dominik Liebler`_ cũng những người đóng góp"
 
 #: ../../README.rst:50
 msgid ""
@@ -89,21 +86,20 @@ msgid ""
 " persons to whom the Software is furnished to do so, subject to the "
 "following conditions:"
 msgstr ""
-"Permission is hereby granted, free of charge, to any person obtaining a "
-"copy of this software and associated documentation files (the "
-"'Software'), to deal in the Software without restriction, including "
-"without limitation the rights to use, copy, modify, merge, publish, "
-"distribute, sublicense, and/or sell copies of the Software, and to permit"
-" persons to whom the Software is furnished to do so, subject to the "
-"following conditions:"
+"Giấy phép được cấp, miễn phí dưới các hình thức, bất cứ cá nhân nào muốn dùng một "
+"bản sao chép của phần mềm này và các tài liệu liên quan ( của phần "
+"'Software'), cho phép mọi hình thức thỏa thuận với phần mềm, bao gồm "
+"không giới hạn quyền sử dụng, sao chép, chính sửa, thêm mới, công khai, "
+"phân phối, giấy phép con, hoặc bán bản sao chép của phần mềm, kể cả quyền phần mềm"
+" những người được ủy quyền phần mềm, tuân thủ những quy định sau: "
 
 #: ../../README.rst:58
 msgid ""
 "The above copyright notice and this permission notice shall be included "
 "in all copies or substantial portions of the Software."
 msgstr ""
-"The above copyright notice and this permission notice shall be included "
-"in all copies or substantial portions of the Software."
+"Thông báo bản quyền và các quyền trên"
+"Trong tất cả các bản sao chép hoặc bản thay đổi có phần đóng góp của phần mềm gốc một cách đáng kể (không hoạt động được nếu bị thiếu)"
 
 #: ../../README.rst:61
 msgid ""
@@ -115,11 +111,11 @@ msgid ""
 "OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE"
 " USE OR OTHER DEALINGS IN THE SOFTWARE."
 msgstr ""
-"THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS "
-"OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF "
-"MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN"
-" NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,"
-" DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR "
-"OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE"
-" USE OR OTHER DEALINGS IN THE SOFTWARE."
+"PHẦN MỀM ĐƯỢC CUNG CẤP 'NGUYÊN TRẠNG', KHÔNG BẢO HÀNH DƯỚI BẤT CỨ HÌNH THỨC NÀO, CHI TIẾT "
+"HOẶC TỔNG QUÁT, BAO QUÁT NHƯNG KHÔNG GIỚI HẠN VỀ KHẢ NĂNG  "
+"THƯƠNG MẠI, PHÙ HỢP CHO MỘT MỤC ĐÍCH CỤ THỂ VÀ KHÔNG VI PHẠM. TRONG "
+" MỌI TRƯỜNG HỢP TÁC GIẢ HOẶC NGƯỜI GIỮ BẢN QUYỀN SẼ KHÔNG CHỊU TRÁCH NHIỆM PHÁP LÝ VỀ BẤT KỲ KHIẾU NẠI NÀO,"
+"CÁC THIỆT HẠI HOẶC CÁC TRÁCH NHIỆM PHÁP LÝ NÀO KHÁC, DÙ TRONG MỘT SỰ VỤ HỢP LÝ, VÔ LÝ HAY"
+"CÁCH NÀO KHÁC, PHÁT SINH TỪ, NGOÀI HOẶC TRONG LIÊN QUAN ĐẾN PHẦN MỀM HOẶC "
+"VIỆC SỬ DỤNG HAY CÁC GIAO DỊCH KHÁC TRONG PHẦN MỀM"
 

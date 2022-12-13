@@ -28,7 +28,7 @@ msgstr "neue Funktionalität dynamisch zu Klasseninstanzen hinzuzufügen."
 
 #: ../../Structural/Decorator/README.rst:10
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Structural/Decorator/README.rst:13
 msgid ""

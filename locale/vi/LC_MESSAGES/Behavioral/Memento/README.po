@@ -107,7 +107,7 @@ msgstr ""
 
 #: ../../Behavioral/Memento/README.rst:39
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Behavioral/Memento/README.rst:41
 msgid "The seed of a pseudorandom number generator"

@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../../Structural/FluentInterface/README.rst:11
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Structural/FluentInterface/README.rst:13
 msgid "Doctrine2's QueryBuilder works something like that example class below"

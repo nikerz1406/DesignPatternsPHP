@@ -16,7 +16,7 @@ msgstr ""
 
 #: ../../Behavioral/ChainOfResponsibilities/README.rst:2
 msgid "`Chain Of Responsibilities`__"
-msgstr "`Chain Of Responsibilities`__"
+msgstr "`Chuỗi Liên Đới`__"
 
 #: ../../Behavioral/ChainOfResponsibilities/README.rst:5
 msgid "Purpose:"
@@ -28,50 +28,46 @@ msgid ""
 "object cannot handle a call, it delegates the call to the next in the "
 "chain and so forth."
 msgstr ""
-"Um eine Kette von Objekten zu bauen, die einen Aufruf in sequentieller "
-"Folge abzuarbeiten. Wenn ein Objekt den Aufruf nicht bearbeiten kann, "
-"delegiert es die Anfrage weiter an das nächste Objekt und so weiter. So "
-"lange, bis die Anfrage von einem Objekt erfolgreich abgearbeitet werden "
-"kann."
+"Dùng để xây dựng một chuỗi các đối tượng mà ở đó các sự kiện được gọi tuần tự. Nếu một "
+" trong các đối tượng không có hàm xử lý, thì hàm cha của hàm xử lý đó sẽ chuyển sự kiện sang đối tượng tiếp theo cho đến hết."
 
 #: ../../Behavioral/ChainOfResponsibilities/README.rst:12
 msgid "Examples:"
-msgstr "Beispiele:"
+msgstr "Ví dụ:"
 
 #: ../../Behavioral/ChainOfResponsibilities/README.rst:14
 msgid ""
 "logging framework, where each chain element decides autonomously what to "
 "do with a log message"
 msgstr ""
-"Logging Framework, in dem jedes Element der Kette automatisch "
-"entscheidet, was es mit einer Logmessage tun möchte"
+"Hệ thống ghi nhận nhật ký, nơi mà bất cứ hành động nào cũng được ghi nhận tùy biến"
+" tương ứng với mỗi dòng nhật ký"
 
 #: ../../Behavioral/ChainOfResponsibilities/README.rst:16
 msgid "a Spam filter"
-msgstr "ein Spamfilter"
+msgstr "Một bộ lọc Thư rác"
 
 #: ../../Behavioral/ChainOfResponsibilities/README.rst:17
 msgid ""
 "Caching: first object is an instance of e.g. a Memcached Interface, if "
 "that \"misses\" it delegates the call to the database interface"
 msgstr ""
-"Caching: das erste Objekt ist Beispielsweise eine Memcache-Instanz. Wenn "
-"es einen „Miss“ hat, dann wird an das nächste Element weitergeleitet, das"
-" eine Datenbank-Abfrage unternimmt"
+"Bộ nhớ đệm: đối tượng đầu tiên là một thực tiễn của ví dụ. Tại cổng giao tiếp lưu trữ dữ liệu tạm, nếu "
+"không gọi được thì đại diện của nó sẽ gọi cổng giao tiếp của cơ sở dữ liệu "
 
 #: ../../Behavioral/ChainOfResponsibilities/README.rst:25
 msgid "UML Diagram"
-msgstr "UML Diagramm"
+msgstr "Sơ đồ UML"
 
 #: ../../Behavioral/ChainOfResponsibilities/README.rst:32
 msgid "Code"
-msgstr "Code"
+msgstr "Mã"
 
 #: ../../Behavioral/ChainOfResponsibilities/README.rst:34
 msgid "You can also find this code on `GitHub`_"
-msgstr "Du kannst den Code auch auf `GitHub` einsehen_"
+msgstr "Bạn có thể tìm thấy mã ở `GitHub`_"
 
 #: ../../Behavioral/ChainOfResponsibilities/README.rst:61
 msgid "Test"
-msgstr "Теst"
+msgstr "Kiểm thử"
 

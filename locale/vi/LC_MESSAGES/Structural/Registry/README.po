@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../Structural/Registry/README.rst:12
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Structural/Registry/README.rst:20
 msgid "UML Diagram"

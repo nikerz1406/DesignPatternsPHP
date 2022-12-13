@@ -33,7 +33,7 @@ msgstr ""
 
 #: ../../Creational/Prototype/README.rst:11
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Creational/Prototype/README.rst:13
 msgid ""

@@ -54,7 +54,7 @@ msgstr ""
 
 #: ../../Creational/Builder/README.rst:19
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Creational/Builder/README.rst:21
 msgid "PHPUnit: Mock Builder"

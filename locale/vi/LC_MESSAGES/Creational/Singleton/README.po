@@ -40,7 +40,7 @@ msgstr ""
 
 #: ../../Creational/Singleton/README.rst:14
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Creational/Singleton/README.rst:16
 msgid "DB Connector"

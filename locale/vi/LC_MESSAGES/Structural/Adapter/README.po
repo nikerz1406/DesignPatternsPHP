@@ -37,7 +37,7 @@ msgstr ""
 
 #: ../../Structural/Adapter/README.rst:13
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Structural/Adapter/README.rst:15
 msgid "DB Client libraries adapter"

@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../../Behavioral/Iterator/README.rst:11
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Behavioral/Iterator/README.rst:13
 msgid ""

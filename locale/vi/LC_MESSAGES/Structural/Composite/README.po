@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../../Structural/Composite/README.rst:11
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Structural/Composite/README.rst:13
 msgid ""

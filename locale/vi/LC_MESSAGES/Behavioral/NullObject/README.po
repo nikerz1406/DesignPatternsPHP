@@ -60,7 +60,7 @@ msgstr ""
 
 #: ../../Behavioral/NullObject/README.rst:22
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Behavioral/NullObject/README.rst:24
 msgid ""

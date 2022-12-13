@@ -16,7 +16,7 @@ msgstr ""
 
 #: ../../Behavioral/README.rst:2
 msgid "`Behavioral`__"
-msgstr "`Verhaltensmuster`__"
+msgstr "`Hành vi`__"
 
 #: ../../Behavioral/README.rst:4
 msgid ""
@@ -25,8 +25,8 @@ msgid ""
 "these patterns. By doing so, these patterns increase flexibility in "
 "carrying out this communication."
 msgstr ""
-"Design Patterns, die gängige Kommunikationsmuster zwischen mehreren "
-"Objekten definieren, sind in der Softwareentwicklung als sog. "
-"Verhaltensmuster bekannt. Mit diesen Patterns kann die Flexibilität in "
-"einer Architektur signifikant verbessert werden."
+"Trong kỹ thuật phần mềm, các mẫu thiết kế phân nhóm theo hành vi là mẫu "
+"được xác định bởi các giao tiếp thông thường giữa đối tượng và thực thể "
+" có trong trong mẫu. Chính vì thế, mẫu thiết kế làm tăng tính linh hoạt trong việc "
+" giao tiếp với các thực thể mở rộng"
 

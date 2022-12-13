@@ -36,7 +36,7 @@ msgstr ""
 
 #: ../../Behavioral/Observer/README.rst:13
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Behavioral/Observer/README.rst:15
 msgid "a message queue system is observed to show the progress of a job in a GUI"

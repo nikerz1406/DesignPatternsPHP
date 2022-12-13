@@ -36,7 +36,7 @@ msgstr ""
 
 #: ../../Behavioral/Specification/README.rst:13
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Behavioral/Specification/README.rst:15
 msgid "`RulerZ <https://github.com/K-Phoen/rulerz>`__"

@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../Structural/DataMapper/README.rst:21
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Structural/DataMapper/README.rst:23
 msgid ""

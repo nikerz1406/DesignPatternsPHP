@@ -65,7 +65,7 @@ msgstr ""
 
 #: ../../Structural/DependencyInjection/README.rst:26
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Structural/DependencyInjection/README.rst:28
 msgid ""

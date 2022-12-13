@@ -50,7 +50,7 @@ msgstr ""
 
 #: ../../Behavioral/Strategy/README.rst:19
 msgid "Examples"
-msgstr "Beispiele"
+msgstr "Ví dụ"
 
 #: ../../Behavioral/Strategy/README.rst:21
 msgid "sorting a list of objects, one strategy by date, the other by id"
